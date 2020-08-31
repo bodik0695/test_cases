@@ -1,0 +1,1 @@
+export const AUTH_KEY = "test_cases_auth";
